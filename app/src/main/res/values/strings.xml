@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleMapMarkerClickArea</string>
+    <string name="map_id">MY_MAP_ID</string>
+</resources>
